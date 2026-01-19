@@ -1,0 +1,12 @@
+# Image Scraper + AI Generator Dependencies
+# Install with: pip install -r requirements.txt
+
+requests==2.31.0            # For HTTP requests and downloading images
+pymongo==4.6.1              # MongoDB driver for Python
+Pillow==10.2.0              # Image processing library
+python-dotenv==1.0.0        # For loading environment variables
+streamlit==1.53.0           # Web interface
+duckduckgo-search==8.1.1    # For keyword-based image search
+
+# AI/ML Features
+rembg==2.0.72               # Background removal using AI
