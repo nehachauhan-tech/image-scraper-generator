@@ -11,6 +11,17 @@
 - **☁️ Database Support**: Optional MongoDB integration for data tracking.
 - **🖥️ Modern UI**: Clean, responsive dark-themed interface.
 
+## 📸 Screenshots
+
+![Dashboard](assets/home_dashboard.png)
+*Modern Dark-Themed Dashboard*
+
+![Search Interface](assets/search_interface.png)
+*Intelligent Image Search*
+
+![AI Studio](assets/ai_studio.png)
+*Generative AI Integration*
+
 ## 🛠️ Tech Stack
 
 - **Frontend**: Streamlit (Python)
